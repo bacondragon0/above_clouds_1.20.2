@@ -1,0 +1,48 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_hard_cloud": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "above_clouds:hard_cloud"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_sun_emblem": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "above_clouds:sun_emblem"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "above_clouds:cloud_charge"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_sun_emblem",
+      "has_hard_cloud",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "above_clouds:cloud_charge"
+    ]
+  },
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "above_clouds:sky_log",
+    "above_clouds:sky_wood",
+    "above_clouds:sky_log_stripped",
+    "above_clouds:sky_wood_stripped"
+  ]
+}

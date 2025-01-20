@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "H": {
+      "item": "above_clouds:hard_cloud"
+    },
+    "S": {
+      "item": "minecraft:string"
+    }
+  },
+  "pattern": [
+    "HHH",
+    "S S",
+    " S "
+  ],
+  "result": {
+    "item": "above_clouds:parachute"
+  },
+  "show_notification": true
+}

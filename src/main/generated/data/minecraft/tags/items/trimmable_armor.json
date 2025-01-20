@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "above_clouds:aerialite_helmet",
+    "above_clouds:aerialite_chestplate",
+    "above_clouds:aerialite_leggings",
+    "above_clouds:aerialite_boots"
+  ]
+}

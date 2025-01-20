@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_horizontal",
+  "textures": {
+    "end": "above_clouds:block/sky_log_top",
+    "side": "above_clouds:block/sky_log"
+  }
+}

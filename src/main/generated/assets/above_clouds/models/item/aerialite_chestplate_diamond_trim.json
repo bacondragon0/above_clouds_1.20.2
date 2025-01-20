@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "above_clouds:item/aerialite_chestplate",
+    "layer1": "minecraft:trims/items/chestplate_trim_diamond"
+  }
+}

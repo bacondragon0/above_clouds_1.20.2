@@ -1,0 +1,6 @@
+// 1.20.1	2024-05-14T23:53:07.4654447	Above Clouds/Tags for minecraft:block
+b4aa62e1230facdc8f1aa6b421d58ff60a8d05d7 data\minecraft\tags\blocks\mineable\pickaxe.json
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\mineable\hoe.json
+f18bfceb8198e83c03e27a60bb80db5f045fce1e data\minecraft\tags\blocks\mineable\shovel.json
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\dead_bush_may_place_on.json
+2b4f369827d329e06c1327b2cd32c03945d79647 data\minecraft\tags\blocks\needs_diamond_tool.json

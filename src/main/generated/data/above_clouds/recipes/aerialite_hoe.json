@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "above_clouds:aerialite_ingot"
+    },
+    "B": {
+      "item": "minecraft:blaze_rod"
+    },
+    "S": {
+      "item": "above_clouds:sun_emblem"
+    }
+  },
+  "pattern": [
+    "AS ",
+    " B ",
+    " B "
+  ],
+  "result": {
+    "item": "above_clouds:aerialite_hoe"
+  },
+  "show_notification": true
+}

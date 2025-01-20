@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "above_clouds:block/sky_log_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "above_clouds:block/sky_log"
+    },
+    "axis=z": {
+      "model": "above_clouds:block/sky_log_horizontal",
+      "x": 90
+    }
+  }
+}

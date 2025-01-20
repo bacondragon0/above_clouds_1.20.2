@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "above_clouds:aerialite_ingot"
+    }
+  },
+  "pattern": [
+    "AAA",
+    "A A",
+    "   "
+  ],
+  "result": {
+    "item": "above_clouds:aerialite_helmet"
+  },
+  "show_notification": true
+}

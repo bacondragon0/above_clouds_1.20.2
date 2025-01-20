@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "above_clouds:block/celestial_bush_stage0"
+  }
+}

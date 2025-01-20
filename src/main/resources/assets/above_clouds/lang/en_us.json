@@ -1,0 +1,50 @@
+{
+  "item.above_clouds.celestial_berry": "Celestial Berry",
+  "item.above_clouds.celestial_bush_seed": "Celestial Berry Bush Seed",
+
+  "item.above_clouds.hard_cloud": "Hardened Cloud",
+  "item.above_clouds.aerialite_ingot": "Aerialite Ingot",
+  "item.above_clouds.aerialite_raw": "Raw Aerialite",
+  "item.above_clouds.sun_emblem": "Sun Emblem",
+  "item.above_clouds.moon_emblem": "Moon Emblem",
+  "item.above_clouds.celestial_key": "Celestial Key",
+
+  "item.above_clouds.parachute": "Cloud on a String",
+  "item.above_clouds.cloud_charge": "Cloud Charge",
+
+  "item.above_clouds.aerialite_hammer": "Aerialite Hammer",
+
+  "item.above_clouds.aerialite_sword": "Aerialite Sword",
+  "item.above_clouds.aerialite_pickaxe": "Aerialite Pickaxe",
+  "item.above_clouds.aerialite_shovel": "Aerialite Shovel",
+  "item.above_clouds.aerialite_axe": "Aerialite Axe",
+  "item.above_clouds.aerialite_hoe": "Aerialite Hoe",
+
+  "item.above_clouds.aerialite_helmet": "Aerialite Helmet",
+  "item.above_clouds.aerialite_chestplate": "Aerialite Chestplate",
+  "item.above_clouds.aerialite_leggings": "Aerialite Leggings",
+  "item.above_clouds.aerialite_boots": "Aerialite Boots",
+
+  "item.above_clouds.hermes_boots": "Hermes Boots",
+
+  "block.above_clouds.cloud_block": "Cloud Block",
+  "block.above_clouds.cloud_grass": "Celestial Grass Block",
+  "block.above_clouds.cloud_stone": "Cloud Stone Block",
+  "block.above_clouds.aerialite_ore": "Aerialite Ore",
+  "block.above_clouds.skytree_sapling": "Celestial Sapling",
+  "block.above_clouds.sky_log": "Celestial Wood Log",
+  "block.above_clouds.sky_log_stripped": "Stripped Celestial Wood Log",
+  "block.above_clouds.sky_wood": "Celestial Wood",
+  "block.above_clouds.sky_wood_stripped": "Stripped Celestial Wood",
+  "block.above_clouds.sky_planks": "Celestial Planks",
+  "block.above_clouds.sky_leaves": "Celestial Leaves",
+
+  "block.above_clouds.celestial_vault": "Celestial Vault",
+
+  "enchantment.above_clouds.force": "Force",
+  "enchantment.above_clouds.earthshatter": "Earth Shatter",
+  "enchantment.above_clouds.ascension": "Ascension",
+  "enchantment.above_clouds.death_from_above": "Death from Above",
+
+  "itemgroup.cloud": "Above Clouds"
+}

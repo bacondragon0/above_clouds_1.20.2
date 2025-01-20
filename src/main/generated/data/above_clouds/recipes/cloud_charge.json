@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "H": {
+      "item": "above_clouds:hard_cloud"
+    },
+    "S": {
+      "item": "above_clouds:sun_emblem"
+    }
+  },
+  "pattern": [
+    " H ",
+    "HSH",
+    " H "
+  ],
+  "result": {
+    "item": "above_clouds:cloud_charge"
+  },
+  "show_notification": true
+}

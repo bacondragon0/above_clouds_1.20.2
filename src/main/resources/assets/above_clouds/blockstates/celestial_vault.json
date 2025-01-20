@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "locked=true": {
+      "model": "above_clouds:block/celestial_vault_locked"
+    },
+    "locked=false": {
+      "model": "above_clouds:block/celestial_vault_unlocked"
+    }
+  }
+}

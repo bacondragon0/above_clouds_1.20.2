@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "above_clouds:block/celestial_vault_front",
+    "side": "above_clouds:block/celestial_vault_side",
+    "top": "above_clouds:block/celestial_vault_top_locked",
+    "bottom": "above_clouds:block/celestial_vault_bottom"
+  }
+}

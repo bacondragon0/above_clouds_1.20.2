@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 120,
+  "experience": 0.8,
+  "group": "aerialite",
+  "ingredient": {
+    "item": "above_clouds:aerialite_ore"
+  },
+  "result": "above_clouds:aerialite_ingot"
+}
